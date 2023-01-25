@@ -1,0 +1,31 @@
+.margintop-32{
+    margin-top: 32px;
+}
+
+.margintop-16{
+    margin-top: 16px;
+}
+
+.marginbotton-32{
+    margin-bottom: 32px;
+}
+
+.marginbotton-16{
+    margin-bottom: 16px;
+}
+
+.section-cupon{
+    background-color: #28a745;
+}
+
+.title-section{
+    color: white;
+}
+
+.bg-body-tertiary{
+    background-color: #28a745 !important;
+}
+
+.nav-link{
+    color: white;
+}

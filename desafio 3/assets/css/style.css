@@ -1,0 +1,89 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+
+.titulo{
+    color: white;
+    text-align: center;
+    font: normal normal medium 50px/59px Raleway;
+    font-size: 50px;
+}
+.parrafo-icono{
+    color: white;
+}
+.section-description{
+    height: 348px;
+    width: 100%;
+}
+.parrafo-caracteristica{
+        color: white;
+        width: 475px;
+        float: left;
+        padding-left: 150px;
+        font: normal normal 300 16px/19px Raleway;
+        padding-top: 76px;
+        padding-bottom: 75px;
+        padding-right: 106px;
+}
+.section-description img{
+    float: right;
+    display: inline-block;
+    width: 399px;
+    height: 237px;
+    padding-right: 150px;
+    padding-top: 45px;
+    padding-bottom: 66px;
+}
+.section-caracteristicas{
+    background-color: #1E1A13;
+    height: 348px;
+    
+}
+.contenedor-all-iconos{
+    margin-top: 50px;
+    margin-left: 300px;
+}
+.contenedor-icono{
+    display: inline-block;
+    float: left;
+    margin-left: 182px;
+    text-align: center;
+    font: normal normal medium 40px/47px Raleway;
+    font-size: 25px;
+}
+.titulo-caracteristicas{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 75px;
+}
+i{
+    color: white;
+}
+.section-galeria{
+    height: 348px;
+    padding-left: 250px;
+
+}
+.img-galeria{
+    width: 316px;
+    height: 202px;
+    display: inline-block;
+    float: left;
+    padding-top: 73px;
+    margin-left: 16px;
+}
+.parrafo-footer{
+    color: white;
+    left: 299px;
+    padding-top: 38px;
+    text-align: center;
+}   
+.footer{
+    display: block;
+    background-color:#1E1A13;
+    height: 102px;
+    font-size: 20px;
+    font: normal normal 300 20px/24px Raleway;
+}
